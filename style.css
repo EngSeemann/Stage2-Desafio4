@@ -10,8 +10,8 @@ body{
 
 .page{
     width: 1083px;
-    margin-left: 99px;
-    margin-right: 98px;
+    padding: 99px;
+    margin: 0 auto;
 }
 
 .top{
@@ -79,10 +79,9 @@ p span{
 }
 
 #padlock{
-    position: fixed;
-    top: 638px;
+    position: absolute;
+    top: 738px;
     left: 20px;
-    bottom: 20px;
 }
 
 footer{
